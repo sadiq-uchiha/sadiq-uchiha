@@ -7,9 +7,9 @@ React Devloper
 I have been coding for a few months and started with python to react I learned many things, my dream is become full stack (Python+React) Dev.
 
 * 🌍  I'm based in Bangalore
-* ✉️  You can contact me at [sadiq.r7878@gmail.com](mailto:sadiq.r7878@gmail.com)
-* 🚀  I'm currently working on [React project](http://github.com/sadiq-uchiha/multimart)
-* 🧠  I'm learning Django
+* ✉️  You can contact me at [sadiq.md@zohomail.in](mailto:sadiq.md@zohomail.in)
+* 🚀  I'm currently working on [Django project](http://github.com/sadiq-uchiha)
+* 🧠  I'm Django Developer
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  Always ready learn
 
